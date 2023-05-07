@@ -1,0 +1,12 @@
+*{
+    background-color: darkseagreen;
+}
+.container{
+    font-size: 50px;
+    text-align: center;
+    color: darkgreen;
+}
+.dice{
+    display: flex;
+    flex-direction: row;
+}
